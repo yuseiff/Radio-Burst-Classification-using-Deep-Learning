@@ -1,5 +1,9 @@
 # Radio Burst Classification using Deep Learning
 
+![WhatsApp Image 2025-02-12 at 11 47 05_92064c74](https://github.com/user-attachments/assets/1871c86e-e40b-4326-a33b-49b2d44fa7e6)
+
+![ALASKA-COHOE_20220421_015959_62 fit gz](https://github.com/user-attachments/assets/bd62affa-7bf7-413d-a5e9-e3d9be6bb85f)
+
 ## Overview
 
 This project focuses on the classification of radio burst spectrogram images using various deep learning techniques. It was developed during a 6-month AI research internship at the Egyptian Space Agency (EGSA) under the supervision of Eng. Hassan Noureldeen and Dr. Mohamed Nedal. The primary goal was to create a robust system capable of automatically classifying radio bursts into different types, demonstrating both high-speed and accurate detection capabilities.
