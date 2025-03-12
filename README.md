@@ -93,7 +93,6 @@ The repository includes detailed code documentation, explaining each step and pr
 ## Key Outputs
 The project yielded several important outputs:
 
--   **Trained Model Weights**: Saved for each trained model, both custom CNN and pre-trained, and also for the YOLO models in a specified directory for future use.
 -   **Performance Metrics**: Outputs from cross-validation for the pre-trained models, and both training and testing metrics for CNN, ViT, Swin, ConvNext, and the Ensemble method are printed in the code.
 -   **Final Results**: CSV file containing the final performance results (`final_results.csv`).
 -   **Cross-Validation Results**:  CSV file containing the cross-validation performance results for the pre-trained models (`cv_results.csv`).
