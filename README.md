@@ -29,13 +29,9 @@ This repository contains the following main components:
 *   **`Documentation: YOLO Annotation and Dataset Preparation Script`**: explains the `png prototype.ipynb` script and the YOLO annotation format and data preprocessing steps.
 *   **`Project.ipynb`**: A Python notebook encompassing several tasks, including custom CNN model training, evaluation, and visualization, as well as K-Fold cross-validation on several pre-trained models.
 *   **`read_data.py`**: A Python script including functions for reading both PNG image files and FITS files.
-*   **`Data`**: Contains dataset files and a config file (`data.yaml`).
-*   **`Weight`**: Contains the trained weights of the models.
-*   **`Classified`**: a folder that contains labeled subfolders for saving classified radio burst images by type.
 *   **`Test`**: a folder for the images that will be used to test the classification models.
 *   **`cv_results.csv`**: CSV file containing the cross validation results for each pretrained model.
 *   **`final_results.csv`**: CSV file containing the final results of each classification method.
-*  **`tfhub_cache`**: folder to cache TensorFlow Hub models
 
 ## Data Collection and Preparation
 
