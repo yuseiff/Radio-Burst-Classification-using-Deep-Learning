@@ -1,4 +1,4 @@
-# Radio Burst Classification using Deep Learning
+# Radio Burst Detection System: CALLISTO Observatory Data & Deep Learning
 
 ![WhatsApp Image 2025-02-12 at 11 47 05_92064c74](https://github.com/user-attachments/assets/1871c86e-e40b-4326-a33b-49b2d44fa7e6)
 
